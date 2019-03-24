@@ -3,5 +3,10 @@
     "description": "My first composer package.",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cota\\": "src"
+        }
+    }
 }
