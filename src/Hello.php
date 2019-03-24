@@ -1,6 +1,6 @@
 <?php
 
-namespace cota;
+namespace Cota\Hello;
 
 class Hello
 {
