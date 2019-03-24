@@ -2,5 +2,6 @@
     "name": "cota/hello",
     "description": "My first composer package.",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {}
 }
